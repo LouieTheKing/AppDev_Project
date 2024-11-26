@@ -1,0 +1,76 @@
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.exe.config
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.exe
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.pdb
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.AssemblyReference.cache
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Form1.resources
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Properties.Resources.resources
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.GenerateResource.cache
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.CoreCompileInputs.cache
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.exe
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.pdb
+C:\Users\Ann\Desktop\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.exe.config
+C:\Users\Ann\Desktop\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.exe
+C:\Users\Ann\Desktop\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.pdb
+C:\Users\Ann\Desktop\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.AssemblyReference.cache
+C:\Users\Ann\Desktop\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ann\Desktop\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.frmInventoryEditor.resources
+C:\Users\Ann\Desktop\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.frmProductEditor.resources
+C:\Users\Ann\Desktop\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Properties.Resources.resources
+C:\Users\Ann\Desktop\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.GenerateResource.cache
+C:\Users\Ann\Desktop\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Desktop\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.exe
+C:\Users\Ann\Desktop\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.pdb
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.exe.config
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.exe
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.pdb
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.AssemblyReference.cache
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.SuggestedBindingRedirects.cache
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.AccountSettings.resources
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.frmInventoryEditor.resources
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Login.resources
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Orders.resources
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.OrdersDrinks.resources
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.OrdersSnacks.resources
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.frmProductEditor.resources
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Properties.Resources.resources
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.GenerateResource.cache
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.CoreCompileInputs.cache
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.exe
+D:\APP DEV PROJECT\AppDev-Project-main\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.pdb
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.AssemblyReference.cache
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.AccountSettings.resources
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.frmInventoryEditor.resources
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Login.resources
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Orders.resources
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.OrdersDrinks.resources
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.OrdersSnacks.resources
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.frmProductEditor.resources
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Properties.Resources.resources
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.GenerateResource.cache
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.CoreCompileInputs.cache
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.exe
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.pdb
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.exe.config
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.exe
+C:\Users\galan\OneDrive\Desktop\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.pdb
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.exe.config
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.exe
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.pdb
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.AssemblyReference.cache
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.AccountSettings.resources
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.ForgotPassword.resources
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.frmInventoryEditor.resources
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Login.resources
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Orders.resources
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.OrdersDrinks.resources
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.OrdersSnacks.resources
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.frmProductEditor.resources
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Properties.Resources.resources
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Settings.resources
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.GenerateResource.cache
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.CoreCompileInputs.cache
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.exe
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.pdb
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.ProductList.resources
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.AdminLogin.resources
+F:\AppDev_Project-main\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.ReportLog.resources
